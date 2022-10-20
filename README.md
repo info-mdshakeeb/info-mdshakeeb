@@ -19,15 +19,9 @@
  
 I am simultaneously learning, researching and Developer.
 
-☛ learning Stage :
-✔️ a student of computer science and engineering.
-✔️Here I am trying to learn about computer different computer languages ​​like c, c ++, java, python etc.
+☛ learning Stage : As a student of computer science and engineering.Here I am trying to learn about computer different computer languages ​​like c, c ++, java, python etc.
 
-☛ researching :
-✔️ Here I try to gain knowledge about my religion.
-✔️I am a Muslim and Muhammad (ﷺ) is my role model. 
-✔️seeking knowledge about Islam, working fo the sake of Allah. 
-✔️I Love Islam & I am Proud to be a Muslim. 🕋
+☛ researching : Here I try to gain knowledge about my religion.I am a Muslim and Muhammad (ﷺ) is my role model. seeking knowledge about Islam, working fo the sake of Allah. ✔️I Love Islam & I am Proud to be a Muslim. 🕋
 
 ☛ Developer - Here I have completed several types of training
 Skill Set Full Stack Web  <br> <br>
