@@ -27,7 +27,6 @@ I am simultaneously learning, researching and Developer.
 Skill Set Full Stack Web  <br> <br>
 
 
-<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzshakeeb&show_icons=true&locale=en&layout=compact" alt="itzshakeeb" />
 
 - 🔭 I’m currently study at [SFMU](https://www.sfmu.edu.bd) 
 
