@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/itzshakeeb)  
 
 <h1 align="center">Hello 👋, I'm Shakeeb</h1>
-<h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  <br>
+<h3 align="center">A passionate Software Engineer from - 🇧🇩</h3>  <br>
 
 
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzshakeeb&" alt="skb's" /></p>
