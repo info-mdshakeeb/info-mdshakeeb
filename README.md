@@ -5,10 +5,10 @@
 <h3 align="center">A passionate Software Engineer from - 🇧🇩</h3>  <br>
 
 
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzshakeeb&" alt="skb's" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=info-mdshakeeb&" alt="skb's" /></p>
  <br>
  
-<p align="center"> <a href="https://github.com/shakilahmedatik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzshakeeb&row=1&column=6&theme=onedark" alt="shakilahmedatik" /></a> </p>  <br>
+<p align="center"> <a href="https://github.com/shakilahmedatik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=onedark" alt="" /></a> </p>  <br>
 
 
 
