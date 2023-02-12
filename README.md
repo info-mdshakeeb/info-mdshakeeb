@@ -30,7 +30,7 @@ Skill Set Full Stack Web  <br> <br>
 - 🌱 I’m currently learning  JavaScript , React-Native.
 
 - 💬 Talk to me about React, JavaScript.
- - 📫 Reach me at **itzshakeeb@gmail.com**  
+ - 📫 Reach me at **info.mdshakeeb@gmail.com**  
 
  <br> 
 <h5 align="left">Languages and Tools:</h5>  
