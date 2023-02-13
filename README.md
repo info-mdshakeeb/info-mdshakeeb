@@ -75,5 +75,5 @@ Skill Set Full Stack Web  <br>
 </div>
 
 
-<img src="https://raw.githubusercontent.com/info-mdshakeeb/info-mdshakeeb/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/output/snake.svg" alt="Snake animation" width="1400" />
 
