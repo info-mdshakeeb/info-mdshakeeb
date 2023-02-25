@@ -1,5 +1,5 @@
 <p>
-<img align="center" src="https://i.ibb.co/8rYNDmQ/Orange-And-Blue-Modern-Digital-Marketer-Linkedin-Banner.png"  alt="skb's" /></p>
+<img align="center" src="https://media.licdn.com/dms/image/D4D16AQHeG91iZlaF4g/profile-displaybackgroundimage-shrink_350_1400/0/1677082823988?e=1682553600&v=beta&t=g-FgGo6wfQbzuef9NqPUs6YZkvlc4IG7Wk2CRgHIclc"  alt="skb's" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/itzshakeeb)  
 ###
@@ -7,7 +7,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 <h3 align="center">A passionate Software Engineer from - 🇧🇩</h3> 
 <br>
-<p align="center"> <a href="https://github.com/shakilahmedatik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=onedark" alt="" /></a> </p> 
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=onedark" alt="" /></a> </p> 
  <h2> About Me <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
  <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=info-mdshakeeb" height="150" alt="stats graph"  />
