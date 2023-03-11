@@ -15,14 +15,15 @@
 </div>
  <br clear="both">
  
-"As a recent computer science graduate, I am equipped with strong front-end and back-end development skills. I am dedicated to ongoing learning and research to stay ahead in the industry. My passion for technology and content creation fuels my drive to deliver outstanding results and establish myself as a top professional in my field. With my technical expertise and commitment to professional growth, I am poised to make a lasting impact in the industry."
+Hello, my name is Shakeebul Islam, and I'm a web developer with 8 months of experience. My passion for creating engaging and responsive web experiences led me to pursue a career in web development. I am constantly seeking out new ways to improve my skills and stay up-to-date with the latest technologies and trends in the industry.
 
-☛ learning Stage : As a student of computer science and engineering.Here I am trying to learn about computer different computer languages ​​like c, c ++, java, python etc.
+=> As a front-end developer, I specialize in creating intuitive and user-friendly interfaces. I have extensive knowledge and expertise in HTML, CSS, Bootstrap, React-Bootstrap, Tailwind, DaisiUI, JavaScript, ES6, React, jQuery and other front-end technologies. I am also familiar with back-end technologies such as NodeJS, MongoDB, Firebase, REST APIs, Next and more.
 
-☛ researching : Here I try to gain knowledge about my religion.I am a Muslim and Muhammad (ﷺ) is my role model. seeking knowledge about Islam, working fo the sake of Allah. ✔️I Love Islam & I am Proud to be a Muslim. 🕋
+=> In my previous work experience, I have had the opportunity to work on a variety of projects, ranging from small websites to large-scale applications. Through my experience, I have gained valuable skills in developing responsive and accessible websites that cater to the needs of the end-users. I have also worked on projects that required collaboration with cross-functional teams, and I have experience working with tools such as VS Code, Git, Figma, Netlify, and Vercel.
 
-☛ Developer - Here I have completed several types of training
-Skill Set Full Stack Web  <br> 
+=> As a developer, I am committed to producing high-quality code that is both scalable and maintainable. I believe in writing code that is easy to read and understand, making it easier for other developers to build on top of my work. I am always striving to improve my skills and knowledge, and I am open to feedback and constructive criticism.
+
+In summary, I am a dedicated and enthusiastic developer who is always eager to learn and take on new challenges. I am excited about the opportunity to join your team and contribute my skills to your projects. Thank you for considering my application, and I look forward to the chance to discuss how I can contribute to your organization."
 
 - 🔭 I’m currently study at [SFMU](https://www.sfmu.edu.bd) 
 
