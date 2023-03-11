@@ -1,5 +1,5 @@
 <p>
-<img align="center" src="https://media.licdn.com/dms/image/D4D16AQHeG91iZlaF4g/profile-displaybackgroundimage-shrink_350_1400/0/1677082823988?e=1682553600&v=beta&t=g-FgGo6wfQbzuef9NqPUs6YZkvlc4IG7Wk2CRgHIclc"  alt="skb's" /></p>
+<img align="center" src="https://i.ibb.co/cbNvGmr/Black-Red-Hoodie-Costume-Streaming-Twitch-Banners.png"  alt="skb's" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/itzshakeeb)  
 ###
