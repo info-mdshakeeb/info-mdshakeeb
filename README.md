@@ -25,6 +25,7 @@ Hello, my name is Shakeebul Islam, and I'm a web developer with 8 months of expe
 
 In summary, I am a dedicated and enthusiastic developer who is always eager to learn and take on new challenges. I am excited about the opportunity to join your team and contribute my skills to your projects. Thank you for considering my application, and I look forward to the chance to discuss how I can contribute to your organization."
 
+
 - 🔭 I’m currently study at [SFMU](https://www.sfmu.edu.bd) 
 
 - 🌱 I’m currently learning  JavaScript , React-Native.
@@ -33,6 +34,21 @@ In summary, I am a dedicated and enthusiastic developer who is always eager to l
  - 📫 Reach me at **info.mdshakeeb@gmail.com**  
 
  <br> 
+ 
+
+
+<div align="center">
+ <p align="left">📊 Here is My some Skills :</p> <br/>
+ 
+```text
+JavaScript     70 hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
+react JS     100 hrs 31 mins(apx)  ██████████████████████████░░░░░░░░  80 % 
+Node express   20 hrs 0 mins(apx)  ████████████████████████░░░░░░░░░░  70 % 
+Mongoose       25 hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
+```
+
+</div>
+
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/info.mdshakeeb/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdshakeeb/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/info.mdshakeeb/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/info_mdshakeeb) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.mdshakeeb@gmail.com)
 
@@ -68,7 +84,6 @@ In summary, I am a dedicated and enthusiastic developer who is always eager to l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
 </div>
-
 
 <img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/output/snake.svg" alt="Snake animation" width="1400" />
 
