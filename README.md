@@ -42,7 +42,7 @@ In summary, I am a dedicated and enthusiastic developer who is always eager to l
  
 ```text
 JavaScript     15 hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
-react JS      20 hrs 31 mins(apx)  ██████████████████████████░░░░░░░░  80 % 
+react JS      20 hrs 31 mins(apx)  ██████████████████████████░░░░░░░░  85 % 
 Node express   10 hrs 0 mins(apx)  ████████████████████████░░░░░░░░░░  70 % 
 Mongoose       5  hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
 ```
