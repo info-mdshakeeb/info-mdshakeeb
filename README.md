@@ -1,4 +1,4 @@
-<p><img src="https://i.ibb.co/xzt0fpZ/Black-Red-Hoodie-Costume-Streaming-Twitch-Banners-2.png" alt="Black-Red-Hoodie-Costume-Streaming-Twitch-Banners-2" border="0"></p>
+<p></p>
 
 
 ![Profile views](https://gpvc.arturio.dev/itzshakeeb)  
