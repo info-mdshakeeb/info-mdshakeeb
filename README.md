@@ -10,12 +10,12 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 <h3 align="center">A passionate Software Engineer from - 🇧🇩</h3> 
 <br>
-<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=onedark" alt="" /></a> </p> 
- <h2> About Me <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
  <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=info-mdshakeeb" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=info-mdshakeeb&" alt="skb's" height="150" alt="languages graph"  />
 </div>
+ <h2> About Me <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+
  <br clear="both">
  
 Hello, my name is Shakeebul Islam, and I'm a web developer with 8 months of experience. My passion for creating engaging and responsive web experiences led me to pursue a career in web development. I am constantly seeking out new ways to improve my skills and stay up-to-date with the latest technologies and trends in the industry.
@@ -39,7 +39,7 @@ In summary, I am a dedicated and enthusiastic developer who is always eager to l
 <div align="center">
  <p align="left">📊 last week I worked on :</p> <br/>
  
-```text
+```js
 JavaScript     15 hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
 react JS      20 hrs 31 mins(apx)  ██████████████████████████░░░░░░░░  85 % 
 Node express   10 hrs 0 mins(apx)  ████████████████████████░░░░░░░░░░  70 % 
@@ -85,4 +85,5 @@ Mongoose       5  hrs 0 mins(apx)  ███████████████
 </div>
 
 <img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/output/snake.svg" alt="Snake animation" width="1400" />
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=onedark" alt="" width="100%" /></a> </p> 
 
