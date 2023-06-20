@@ -2,12 +2,8 @@
 <img src="https://i.ibb.co/rvXvL9B/Screenshot-2023-05-23-at-2-01-17-PM.png" alt="Screenshot-2023-05-23-at-2-01-17-PM" border="0">
 </p>
 
-
-
-![Profile views](https://gpvc.arturio.dev/itzshakeeb)  
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+Fullstack+Developer+and;a+Cyber+Security+specialist.;I+love+to+play+with+JS%2C+React;Nodejs%2C+Express%2C+Redux%2C+MongoDB%2C;TailwindCSS%2C+Nextjs%2C+TypeScript" alt="Typing SVG" /></a> -->
 <h3 align="center">A passionate Software Engineer from - 🇧🇩</h3> 
 <br>
  <div align="center">
