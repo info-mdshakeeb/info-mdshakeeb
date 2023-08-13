@@ -49,14 +49,7 @@
  </div>
 
 <br clear="">
-<h2>Git status</h3>
-<br>
- <div align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=info-mdshakeeb" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=info-mdshakeeb&" alt="skb's" height="150" alt="languages graph"  />
-</div>
 
- 
 ## Skills
 ```
 🔧 **Programming languages**:  JavaScript, HTML, CSS, typeScript
@@ -74,11 +67,14 @@ react JS      20 hrs 31 mins(apx)  ███████████████
 Node express   10 hrs 0 mins(apx)  ████████████████████████░░░░░░░░░░  70 % 
 Mongoose       5  hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
 ```
-
 </div>
 
-
-
-<img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/output/snake.svg" alt="Snake animation" width="1400" />
+<h2>Git status</h3>
+<br>
+ <div align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=info-mdshakeeb" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=info-mdshakeeb&" alt="skb's" height="150" alt="languages graph"  />
+</div>
 <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=onedark" alt="" width="100%" /></a> </p>
+<img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/output/snake.svg" alt="Snake animation" width="1400" />
 
