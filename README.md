@@ -39,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
 </div>
 <br/>
+<br/>
 
 - 🔭 I’m currently graduated from  [SFMU](https://www.sfmu.edu.bd) 
 - 🌱 I’m currently learning TypeScript.
