@@ -1,30 +1,12 @@
-<p align="center">
-<img src="https://i.ibb.co/rvXvL9B/Screenshot-2023-05-23-at-2-01-17-PM.png" alt="Screenshot-2023-05-23-at-2-01-17-PM" border="0">
-</p>
-
-<h1 align="left">Hey 👋 What's up?</h1>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+Fullstack+Developer+and;a+Cyber+Security+specialist.;I+love+to+play+with+JS%2C+React;Nodejs%2C+Express%2C+Redux%2C+MongoDB%2C;TailwindCSS%2C+Nextjs%2C+TypeScript" alt="Typing SVG" /></a> 
-<h3 align="center">A passionate Software Engineer from - 🇧🇩</h3> 
-<br>
- <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=info-mdshakeeb" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=info-mdshakeeb&" alt="skb's" height="150" alt="languages graph"  />
-</div>
- <h2> About Me <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-
- <br clear="both">
+ <p>
+  Hey 👋 What's up? ,<img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+ my name is Shakeebul Islam, and I'm a web developer with 1.5yr of experience. My passion for creating engaging and responsive web experiences led me to pursue a career in web development. I am constantly seeking out new ways to improve my skills and stay up-to-date with the latest technologies and trends in the industry.
+ </p>
+<picture><img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/main/general.svg" alt=" animation" align="right" /></picture>
  
-Hello, my name is Shakeebul Islam, and I'm a web developer with 1yr of experience. My passion for creating engaging and responsive web experiences led me to pursue a career in web development. I am constantly seeking out new ways to improve my skills and stay up-to-date with the latest technologies and trends in the industry.
-<br/>
 🚀 I'm a passionate software developer with expertise in web development and a keen interest in machine learning. I love building interactive and creative applications that solve real-world problems.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+Fullstack+Developer+and;a+Cyber+Security+specialist.;I+love+to+play+with+JS%2C+React;Nodejs%2C+Express%2C+Redux%2C+MongoDB%2C;TailwindCSS%2C+Nextjs%2C+TypeScript" alt="Typing SVG" /></a>
 
-## Skills
-```
-🔧 **Programming languages**:  JavaScript, HTML, CSS, typeScript
-🛠️ **Frameworks and libraries**:  React.js, Node.js, Express.js , tailwind, mangoes
-📚 **Databases**:  MongoDB 
-🗃️ **Version control**: Git, GitHub,
-```
 <h3 align="left">Languages and Tools:</h3> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
@@ -56,19 +38,30 @@ Hello, my name is Shakeebul Islam, and I'm a web developer with 1yr of experienc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
 </div>
-<br clear="both">
-<br clear="both">
 
 - 🔭 I’m currently graduated from  [SFMU](https://www.sfmu.edu.bd) 
 
 - 🌱 I’m currently learning  JavaScript , React-Native.
 
 - 💬 Talk to me about React, JavaScript.
- - 📫 Reach me at **info.mdshakeeb@gmail.com**  
+ - 📫 Reach me at : [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/info.mdshakeeb/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdshakeeb/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/info.mdshakeeb/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/info_mdshakeeb) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.mdshakeeb@gmail.com)
 
- <br> 
+
+<br clear="">
+<br>
+ <div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=info-mdshakeeb" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=info-mdshakeeb&" alt="skb's" height="150" alt="languages graph"  />
+</div>
+
  
-
+## Skills
+```
+🔧 **Programming languages**:  JavaScript, HTML, CSS, typeScript
+🛠️ **Frameworks and libraries**:  React.js, Node.js, Express.js , tailwind, mangoes
+📚 **Databases**:  MongoDB 
+🗃️ **Version control**: Git, GitHub,
+```
 
 <div align="center">
  <p align="left">📊 last week I worked on :</p> <br/>
@@ -83,10 +76,7 @@ Mongoose       5  hrs 0 mins(apx)  ███████████████
 </div>
 
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/info.mdshakeeb/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdshakeeb/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/info.mdshakeeb/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/info_mdshakeeb) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.mdshakeeb@gmail.com)
-
-
 
 <img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/output/snake.svg" alt="Snake animation" width="1400" />
-<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=onedark" alt="" width="100%" /></a> </p> 
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=onedark" alt="" width="100%" /></a> </p>
 
