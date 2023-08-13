@@ -59,7 +59,7 @@
 ```
 
 <div align="center">
- <p align="left">📊 last week I worked on :</p> <br/>
+ <p align="left">last week I worked on :</p>
  
 ```js
 JavaScript     15 hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
@@ -69,12 +69,13 @@ Mongoose       5  hrs 0 mins(apx)  ███████████████
 ```
 </div>
 
-<h2>Git status</h3>
+<h2>📊 Git Status </h3>
 <br>
  <div align="center">
  <img align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=info-mdshakeeb" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=info-mdshakeeb&" alt="skb's" height="150" alt="languages graph"  />
 </div>
+<br/>
 <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=onedark" alt="" width="100%" /></a> </p>
 <img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/output/snake.svg" alt="Snake animation" width="1400" />
 
