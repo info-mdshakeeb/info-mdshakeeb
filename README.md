@@ -49,8 +49,6 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/info_mdshakeeb) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.mdshakeeb@gmail.com)
  </div>
 
-<br clear="">
-
 ## Skills
 ```
 🔧 **Programming languages**:  JavaScript, HTML, CSS, typeScript
