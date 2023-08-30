@@ -72,8 +72,9 @@ Mongoose       5  hrs 0 mins(apx)  ███████████████
 <h2>📊 Git Status </h3>
 <br>
  <div align="center">
+  
  <img align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=info-mdshakeeb" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=info-mdshakeeb&" alt="skb's" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=info-mdshakeeb&theme=transparent&hide_border=true" alt="skb's" height="150" alt="languages graph"  />
 </div>
 <br/>
 <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=onedark" alt="" width="100%" /></a> </p>
