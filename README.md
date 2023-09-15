@@ -7,6 +7,7 @@
  <div>
  🚀 I'm a passionate software developer with expertise in web development and a keen interest in machine learning. I love building interactive and creative applications that solve real-world problems.
  
+ 
 <h2 align="left">Languages and Tools:</h3> 
 <br/>
 <div align="left">
