@@ -59,7 +59,7 @@
 🗃️ **Version control**: Git, GitHub,
 ```
 
-<div align="center">
+<!-- <div align="center">
  <p align="left">last week I worked on :</p>
  
 ```js
@@ -68,16 +68,22 @@ react JS      20 hrs 31 mins(apx)  ███████████████
 Node express   10 hrs 0 mins(apx)  ████████████████████████░░░░░░░░░░  70 % 
 Mongoose       5  hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
 ```
-</div>
+</div> -->
 
 <h2>📊 Git Status </h3>
 <br>
+
+<!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur-reza&theme=github_dark" width="32.5%"> -->
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-reza&theme=github_dark" width="32.5%"> -->
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur-reza&theme=github_dark&utcOffset=8" width="32.5%"> -->
  <div align="center">
-  
  <img align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&username=info-mdshakeeb" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=info-mdshakeeb&theme=transparent&hide_border=true" alt="skb's" height="150" alt="languages graph"  />
 </div>
+<div align="center" >
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=info-mdshakeeb&theme=github_dark" width="98%">
+</div>
 <br/>
-<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=transparent" alt="" width="100%" /></a> </p>
+<!-- <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=transparent" alt="" width="100%" /></a> </p> -->
 <img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/output/snake.svg" alt="Snake animation" width="1400" />
 
