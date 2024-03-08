@@ -8,7 +8,7 @@
  🚀 I'm a passionate software developer with expertise in web development and a keen interest in machine learning. I love building interactive and creative applications that solve real-world problems.
  
  
-<h2 align="left">Languages and Tools:</h3> 
+<h2 align="left">Languages and Tools:</h2> 
 <br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
