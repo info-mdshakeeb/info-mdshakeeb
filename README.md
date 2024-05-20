@@ -53,12 +53,20 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript   53 hrs 2 mins   ██████████████████████▒░░   89.01 %
-JavaScript   2 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-JSON         1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-CSS          50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Markdown     34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+```rust
+From: 29 October 2023 - To: 19 May 2024
+
+Total Time: 982 hrs 59 mins
+
+JavaScript    767 hrs 27 mins >>>>>>>>>>>>>>>>>>>>-----   78.00 %
+TypeScript    180 hrs 45 mins >>>>>--------------------   18.37 %
+JSON          13 hrs 9 mins   -------------------------   01.34 %
+CSS           7 hrs 48 mins   -------------------------   00.79 %
+Bash          6 hrs 2 mins    -------------------------   00.61 %
+Markdown      2 hrs 7 mins    -------------------------   00.22 %
+HTML          1 hr 46 mins    -------------------------   00.18 %
+Git Config    1 hr 8 mins     -------------------------   00.12 %
+Other         59 mins         -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
