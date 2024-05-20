@@ -52,6 +52,15 @@
  </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   53 hrs 2 mins   ██████████████████████▒░░   89.01 %
+JavaScript   2 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+JSON         1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+CSS          50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Markdown     34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Skills
