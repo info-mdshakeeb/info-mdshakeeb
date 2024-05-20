@@ -53,7 +53,7 @@
 
 
 
-## WakaTime
+## WakaTime   (live data)
 <!--START_SECTION:waka-->
 
 ```rust
