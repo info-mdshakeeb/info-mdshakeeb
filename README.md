@@ -51,6 +51,9 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.mdshakeeb@gmail.com)
  </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Skills
 ```
 🔧 **Programming languages**:  JavaScript, HTML, CSS, typeScript
