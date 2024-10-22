@@ -59,15 +59,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 October 2023 - To: 20 October 2024
+From: 29 October 2023 - To: 21 October 2024
 
-Total Time: 1,762 hrs 3 mins
+Total Time: 1,768 hrs 55 mins
 
-TypeScript    925 hrs 57 mins >>>>>>>>>>>>>------------   52.46 %
-JavaScript    776 hrs 51 mins >>>>>>>>>>>--------------   44.01 %
-CSS           14 hrs 10 mins  -------------------------   00.80 %
-Bash          14 hrs 3 mins   -------------------------   00.80 %
-Other         2 hrs 58 mins   -------------------------   00.17 %
+TypeScript    932 hrs 42 mins >>>>>>>>>>>>>------------   52.64 %
+JavaScript    776 hrs 51 mins >>>>>>>>>>>--------------   43.84 %
+CSS           14 hrs 11 mins  -------------------------   00.80 %
+Bash          14 hrs 9 mins   -------------------------   00.80 %
+Other         2 hrs 59 mins   -------------------------   00.17 %
 ```
 
 <!--END_SECTION:waka-->
