@@ -1,6 +1,6 @@
  <p>
   Hey 👋 What's up? ,<img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
- my name is Shakeebul Islam, and I'm a web developer. My passion for creating engaging and responsive web experiences led me to pursue a career in web development. I am constantly seeking  out new ways to improve my skills and stay up-to-date with the latest technologies and trends in the industry.
+ my name is Shakeebul Islam, and I'm a web developer. My passion for creating engaging and responsive web experiences led me to pursue a career in web development. I am constantly seeking  out new ways to improve my skills and stay up-to-date with the latest technologies and trends in the industry. 
 
 <>👀 </>
  </p>
