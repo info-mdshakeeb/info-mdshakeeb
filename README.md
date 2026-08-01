@@ -21,14 +21,20 @@
   <a href="mailto:info.mdshakeeb@gmail.com">Email</a>
 </p>
 
+> **Currently active professionally:** I contribute through [@m3-shakeeb](https://github.com/m3-shakeeb), my work account. This profile is my personal space for learning, experiments, and independent projects.
+
+<img align="right" width="420" src="https://raw.githubusercontent.com/info-mdshakeeb/info-mdshakeeb/main/general.svg" alt="Shakeebul's live GitHub metrics" />
+
 ## Hello, I'm Shakeebul 👋
 
-I'm a Bangladesh-based web developer who enjoys turning ideas into fast, responsive, and polished web experiences. I work mainly across the JavaScript ecosystem, with a growing focus on TypeScript and modern full-stack development.
+I'm a Bangladesh-based web developer who turns ideas into fast, responsive, and polished digital experiences. I work across the JavaScript ecosystem, with a growing focus on TypeScript and modern full-stack development.
 
 - 🎓 Graduated from [SFMU](https://www.sfmu.edu.bd)
 - 🔭 Building practical, interactive web applications
 - 🌱 Currently deepening my TypeScript skills
 - 💬 Happy to talk about React, JavaScript, and web development
+
+<br clear="right" />
 
 ## Toolbox
 
