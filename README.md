@@ -1,59 +1,49 @@
- <p>
-  Hey 👋 What's up? ,<img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
- my name is Shakeebul Islam, and I'm a web developer. My passion for creating engaging and responsive web experiences led me to pursue a career in web development. I am constantly seeking  out new ways to improve my skills and stay up-to-date with the latest technologies and trends in the industry. 
- </p>
- 
-<picture><img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/main/general.svg" alt=" animation" align="right" /></picture>
- <div>
- 🚀 I'm a passionate software developer with expertise in web development and a keen interest in machine learning. I love building interactive and creative applications that solve real-world problems.
- 
- 
-<h3 align="left">Languages and Tools:</h2> 
-<br/>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="52" alt="google logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="52" alt="matlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" width="52" alt="safari logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
-</div>
-<br/>
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=Shakeebul+Islam&subtitle=Full-stack+web+developer+crafting+thoughtful+digital+experiences&logo=typescript&theme=cyan&mode=dark&width=1200" />
+    <img alt="Shakeebul Islam — Full-stack web developer" src="https://shieldcn.dev/header/graph.svg?title=Shakeebul+Islam&subtitle=Full-stack+web+developer+crafting+thoughtful+digital+experiences&logo=typescript&theme=cyan&mode=light&width=1200" />
+  </picture>
+</p>
 
-- 🔭 I’m currently graduated from  [SFMU](https://www.sfmu.edu.bd) 
-- 🌱 I’m currently learning TypeScript.
-- 💬 Talk to me about React, JavaScript.
-- 📫 Reach me at : [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/info.mdshakeeb/)
- - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdshakeeb/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/info.mdshakeeb/)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.mdshakeeb@gmail.com)
- </div>
+<p align="center">
+  <a href="https://github.com/info-mdshakeeb/info-mdshakeeb/stargazers"><img alt="GitHub stars" src="https://shieldcn.dev/github/stars/info-mdshakeeb/info-mdshakeeb.svg?variant=secondary&theme=cyan" /></a>
+  <a href="https://github.com/info-mdshakeeb/info-mdshakeeb/commits/main"><img alt="Last commit" src="https://shieldcn.dev/github/last-commit/info-mdshakeeb/info-mdshakeeb.svg?variant=secondary&theme=cyan" /></a>
+  <a href="https://github.com/info-mdshakeeb/info-mdshakeeb/actions"><img alt="GitHub Actions" src="https://shieldcn.dev/github/ci/info-mdshakeeb/info-mdshakeeb.svg?workflow=Metrics&branch=main&variant=secondary&theme=cyan" /></a>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdshakeeb/">LinkedIn</a>
+  ·
+  <a href="https://www.facebook.com/info.mdshakeeb/">Facebook</a>
+  ·
+  <a href="https://www.instagram.com/info.mdshakeeb/">Instagram</a>
+  ·
+  <a href="mailto:info.mdshakeeb@gmail.com">Email</a>
+</p>
 
+## Hello, I'm Shakeebul 👋
 
-## WakaTime   (live data)
+I'm a Bangladesh-based web developer who enjoys turning ideas into fast, responsive, and polished web experiences. I work mainly across the JavaScript ecosystem, with a growing focus on TypeScript and modern full-stack development.
+
+- 🎓 Graduated from [SFMU](https://www.sfmu.edu.bd)
+- 🔭 Building practical, interactive web applications
+- 🌱 Currently deepening my TypeScript skills
+- 💬 Happy to talk about React, JavaScript, and web development
+
+## Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,redux,graphql,git,github,figma&perline=17" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind CSS, Bootstrap, Redux, GraphQL, Git, GitHub, and Figma" />
+</p>
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| Backend | Node.js, Express, Firebase, GraphQL |
+| Data & workflow | MongoDB, Git, GitHub, Figma |
+
+## WakaTime
+
 <!--START_SECTION:waka-->
 
 ```rust
@@ -68,39 +58,30 @@ Other                63 hrs 2 mins         -------------------------   01.36 %
 
 <!--END_SECTION:waka-->
 
-## Skills
-```
-🔧 **Programming languages**:  JavaScript, HTML, CSS, typeScript
-🛠️ **Frameworks and libraries**:  React.js, Node.js, Express.js , tailwind, mangoes
-📚 **Databases**:  MongoDB 
-🗃️ **Version control**: Git, GitHub,
-```
+## GitHub activity
 
-<!-- <div align="center">
- <p align="left">last week I worked on :</p>
- 
-```js
-JavaScript     15 hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
-react JS      20 hrs 31 mins(apx)  ██████████████████████████░░░░░░░░  85 % 
-Node express   10 hrs 0 mins(apx)  ████████████████████████░░░░░░░░░░  70 % 
-Mongoose       5  hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
-```
-</div> -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=info-mdshakeeb&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="Shakeebul's GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=info-mdshakeeb&theme=transparent&hide_border=true" alt="Shakeebul's contribution streak" />
+</p>
 
-<h2>📊 Git Status </h3>
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=info-mdshakeeb&theme=github_dark" width="100%" alt="Shakeebul's GitHub contribution graph" />
+</p>
 
-<!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur-reza&theme=github_dark" width="32.5%"> -->
-<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-reza&theme=github_dark" width="32.5%"> -->
-<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur-reza&theme=github_dark&utcOffset=8" width="32.5%"> -->
- <div align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&username=info-mdshakeeb" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=info-mdshakeeb&theme=transparent&hide_border=true" alt="skb's" height="150" alt="languages graph"  />
-</div>
-<div align="center" >
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=info-mdshakeeb&theme=github_dark" width="98%">
-</div>
-<br/>
-<!-- <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=info-mdshakeeb&row=1&column=6&theme=transparent" alt="" width="100%" /></a> </p> -->
-<img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/output/snake.svg" alt="Snake animation" width="1400" />
+<p align="center">
+  <a href="https://github.com/info-mdshakeeb/info-mdshakeeb/commits/main">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/chart/github/commits/info-mdshakeeb.svg?title=Lifetime+contributions&theme=cyan&mode=dark&width=720&height=240" />
+      <img alt="Lifetime GitHub contributions" src="https://shieldcn.dev/chart/github/commits/info-mdshakeeb.svg?title=Lifetime+contributions&theme=cyan&mode=light&width=720&height=240" />
+    </picture>
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/output/snake.svg" alt="Contribution snake animation" width="100%" />
+</p>
+
+<p align="center">
+  Thanks for visiting—feel free to connect or explore my work.
+</p>
