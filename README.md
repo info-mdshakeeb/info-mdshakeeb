@@ -51,12 +51,12 @@ I'm **Shakeebul Islam**, a Bangladesh-based web developer who turns ideas into f
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 October 2023 - To: 30 September 2026
+From: 29 October 2023 - To: 01 October 2026
 
-Total Time: 4,890 hrs 12 mins
+Total Time: 4,897 hrs 47 mins
 
-TypeScript           3,829 hrs 26 mins     >>>>>>>>>>>>>>>>>>>------   77.18 %
-JavaScript           801 hrs 23 mins       >>>>---------------------   16.15 %
+TypeScript           3,835 hrs 40 mins     >>>>>>>>>>>>>>>>>>>------   77.19 %
+JavaScript           801 hrs 25 mins       >>>>---------------------   16.13 %
 Other                71 hrs 23 mins        -------------------------   01.44 %
 ```
 
